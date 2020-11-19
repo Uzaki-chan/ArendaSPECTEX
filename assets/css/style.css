@@ -96,8 +96,8 @@ a:hover {
     color: #313131;
 }
 img {
-    max-width: 100%;
-    height: auto;
+    max-width: 100px;
+    height: 200px;
 }
 iframe {
     width: 100%;
